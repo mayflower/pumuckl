@@ -1,4 +1,6 @@
 # Pumuckl
+[![Build Status](https://travis-ci.org/Mayflower/pumuckl.svg?branch=master)](https://travis-ci.org/Mayflower/pumuckl)
+
 **pumuckl** (Puppet Module Version Checker) is a simple script to check a Puppetfile if there are newer module versions on the forge.
 
 ## Requirements
